@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MyRuns1</string>
+
+    <string name="ui_profile_photo">Profile Photo:</string>
+    <string name="action_settings">Settings</string>
+    <string name="ui_proile_image_descripton">Your Profile Picture</string>
+    <string name="ui_profile_button_change">Change</string>
+    <string name="ui_profile_text_view_name">Name</string>
+    <string name="ui_profile_text_field_name">Your Name</string>
+    <string name="ui_profile_text_view_email">Email</string>
+    <string name="ui_profile_text_field_email">Your Email</string>
+    <string name="ui_profile_text_view_phone">Phone</string>
+    <string name="ui_profile_text_field_phone">Your Phone Number</string>
+    <string name="ui_profile_text_view_gender">Gender</string>
+    <string name="ui_profile_gender_female">Female</string>
+    <string name="ui_profile_gender_male">Male</string>
+    <string name="ui_profile_text_view_class">Class</string>
+    <string name="ui_profile_text_field_class">eg. 2012</string>
+    <string name="ui_profile_text_view_major">Major</string>
+    <string name="ui_profile_text_field_major">Your Major</string>
+    <string name="ui_profile_button_save">Save</string>
+    <string name="ui_profile_button_cancel">Cancel</string>
+    <string name="preference_name">myruns_shared_preference</string>
+    <string name="preference_key_profile_name">profile_name</string>
+    <string name="preference_key_profile_email">profile_email</string>
+    <string name="preference_key_profile_phone">profile_phone</string>
+    <string name="preference_key_profile_gender">profile_gender</string>
+    <string name="preference_key_profile_class">profile_class</string>
+    <string name="preference_key_profile_major">profile_major</string>
+    <string name="profile_photo_file_name">profile_photo.png</string>
+    <string name="ui_profile_toast_save_text">Saved</string>
+    <string name="temp_photo_file_name">temp_photo.png</string>
+    <string name="cancel_message">Cancelled</string>
+    ui_profile_toast_save_text
+</resources>
