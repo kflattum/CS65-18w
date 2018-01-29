@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">StressMeter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_psmmain">Stress Meter</string>
+    <string name="title_activity_psmconfirm">Stress Meter Confirm</string>
+
+    <string name="stress_meter_prompt">Touch the image that best captures how stressed you feel right now</string>
+    <string name="item_1">StressMeter</string>
+    <string name="item_2">Results</string>
+    <string name="cd_logo">logo</string>
+    <string name="open">open navigation drawer</string>
+    <string name="close">close navigation drawer</string>
+    <string name="graph_title">A graph showing your Stress Levels</string>
+    <string name="tabular_results">Summary of Results</string>
+    <string name="stress">Stress</string>
+    <string name="time">Time</string>
+</resources>
