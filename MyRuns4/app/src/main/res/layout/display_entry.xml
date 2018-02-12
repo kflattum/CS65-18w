@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ui_display_entry_input_type_title" />
+
+    <EditText
+        android:id="@+id/editDispInputType"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:editable="false"
+        android:layout_margin="5dp"
+        >
+    </EditText>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ui_display_entry_activity_type_title" />
+
+    <EditText
+        android:id="@+id/editDispActivityType"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:editable="false"
+        android:layout_margin="5dp"
+        >
+    </EditText>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ui_display_entry_date_time_title" />
+
+    <EditText
+        android:id="@+id/editDispDateTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:editable = "false"
+        android:layout_margin="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ui_display_entry_duration_title" />
+
+    <EditText
+        android:id="@+id/editDispDuration"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:editable = "false"
+        android:layout_margin="5dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ui_display_entry_distance_title"/>
+
+    <EditText
+        android:id="@+id/editDispDistance"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:editable = "false"
+        android:layout_margin="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ui_display_entry_calories_title"/>
+
+    <EditText
+        android:id="@+id/editDispCalories"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:editable = "false"
+        android:layout_margin="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ui_display_entry_heartrate_title"/>
+
+    <EditText
+        android:id="@+id/editDispHearrate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:editable = "false"
+        android:layout_margin="5dp" />
+
+    </LinearLayout>
+    </ScrollView>
+
+
